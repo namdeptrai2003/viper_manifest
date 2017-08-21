@@ -24,6 +24,7 @@
   <default revision="refs/heads/cm-14.1"
            remote="github"
            sync-c="true"
+           sync-j="4" />
            
  <!-- KYLEPROXX -->
  <project path="device/samsung/kylepro" name="namdeptrai2003/android_device_samsung_kylepro" remote="github" revision="viper-7.1.x" />
